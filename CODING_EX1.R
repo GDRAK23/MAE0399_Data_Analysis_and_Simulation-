@@ -1,7 +1,6 @@
 #Algoritmo de simulação de X~Poi(λ)
 
 #Assigning Parameters
-
 i=0
 j=1
 n=100
